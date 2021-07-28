@@ -1,0 +1,15 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "mongodb": "^3.6.9",
+    "nodemailer": "^6.6.2",
+    "tslib": {
+      "integrity": "sha512-N82ooyxVNm6h1riLCoyS9e3fuJ3AMG2zIZs2Gd1ATcSFjSA23Q0fzjjZeh0jbJvWVDZ0cJT8yaNNaaXHzueNjg==",
+      "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.0.tgz",
+      "version": "2.3.0"
+    },
+    "upper-case": "^2.0.2"
+  }
+}
